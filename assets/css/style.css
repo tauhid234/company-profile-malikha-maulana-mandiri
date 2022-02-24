@@ -2424,7 +2424,7 @@ p {
           bottom: 0;
           height: 2px;
           width: 15px;
-          background: #ff5316;
+          background: #ff1616;
           -webkit-transition: all 0.3s ease-out 0s;
           -moz-transition: all 0.3s ease-out 0s;
           -ms-transition: all 0.3s ease-out 0s;
@@ -2458,7 +2458,7 @@ p {
         border-radius: 50%;
         margin: 0 3px; }
       .project-area .project-active .slick-dots li.slick-active button {
-        background: #ff5316; }
+        background: #ff1616; }
   .project-area.project-3-area {
     background: #fff;
     margin-top: 0;
