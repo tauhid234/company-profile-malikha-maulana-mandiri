@@ -2431,8 +2431,8 @@ p {
           -o-transition: all 0.3s ease-out 0s;
           transition: all 0.3s ease-out 0s; }
     .project-area .project-item:hover .project-content {
-      background: #ff5316;
-      border-color: #ff5316; }
+      background: #ff1616;
+      border-color: #ff1616; }
       .project-area .project-item:hover .project-content span {
         color: #fff; }
       .project-area .project-item:hover .project-content p {
