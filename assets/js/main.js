@@ -162,8 +162,8 @@ $(function() {
     $('.brand-active').slick({
         dots: false,
         infinite: true,
-        autoplay: false,
-        autoplaySpeed: 2000,
+        autoplay: true,
+        autoplaySpeed: 1000,
         arrows: false,
         speed: 1000,
         slidesToShow: 5,
