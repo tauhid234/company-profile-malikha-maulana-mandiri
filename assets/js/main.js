@@ -257,7 +257,7 @@ $(function() {
     $('.project-active').slick({
         dots: true,
         infinite: true,
-        autoplay: false,
+        autoplay: true,
         autoplaySpeed: 2000,
         arrows: false,
         speed: 1000,
@@ -348,7 +348,7 @@ $(function() {
     $('.industri-active').slick({
         dots: true,
         infinite: true,
-        autoplay: false,
+        autoplay: true,
         autoplaySpeed: 2000,
         arrows: false,
         speed: 1000,
